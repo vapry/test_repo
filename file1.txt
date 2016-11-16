@@ -4,4 +4,4 @@ pisksdjf
 added new footer
 
 27
-28^*1
+28^*1 || 28
